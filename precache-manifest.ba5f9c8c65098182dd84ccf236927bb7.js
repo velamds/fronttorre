@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "572a30ca4e48dd015e677f9904f4e648",
+    "revision": "e0e2e2731ff987526d8b6a7818454358",
     "url": "/fronttorre/index.html"
   },
   {
-    "revision": "a4fccb628fde685f8587",
+    "revision": "d7866c85b8602274d440",
     "url": "/fronttorre/static/css/2.6414bb7b.chunk.css"
   },
   {
-    "revision": "2186aa4e22799ce60258",
+    "revision": "83e4e8c7ac5166875784",
     "url": "/fronttorre/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "a4fccb628fde685f8587",
-    "url": "/fronttorre/static/js/2.24f70e2a.chunk.js"
+    "revision": "d7866c85b8602274d440",
+    "url": "/fronttorre/static/js/2.ccccdc5d.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/fronttorre/static/js/2.24f70e2a.chunk.js.LICENSE.txt"
+    "url": "/fronttorre/static/js/2.ccccdc5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2186aa4e22799ce60258",
-    "url": "/fronttorre/static/js/main.fad8a231.chunk.js"
+    "revision": "83e4e8c7ac5166875784",
+    "url": "/fronttorre/static/js/main.5bc88fd5.chunk.js"
   },
   {
     "revision": "82422620da8833982ac5",
