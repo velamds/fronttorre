@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fronttorre/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fronttorre/static/js/main.4ed6d1ab.chunk.js",
+    "main.js.map": "/fronttorre/static/js/main.4ed6d1ab.chunk.js.map",
+    "runtime-main.js": "/fronttorre/static/js/runtime-main.04ac6f07.js",
+    "runtime-main.js.map": "/fronttorre/static/js/runtime-main.04ac6f07.js.map",
+    "static/js/2.e3d50cc4.chunk.js": "/fronttorre/static/js/2.e3d50cc4.chunk.js",
+    "static/js/2.e3d50cc4.chunk.js.map": "/fronttorre/static/js/2.e3d50cc4.chunk.js.map",
+    "index.html": "/fronttorre/index.html",
+    "precache-manifest.48dced304b9b211de5c953252cb4d7d2.js": "/fronttorre/precache-manifest.48dced304b9b211de5c953252cb4d7d2.js",
+    "service-worker.js": "/fronttorre/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/fronttorre/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e3d50cc4.chunk.js.LICENSE.txt": "/fronttorre/static/js/2.e3d50cc4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fronttorre/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04ac6f07.js",
+    "static/js/2.e3d50cc4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4ed6d1ab.chunk.js"
+  ]
+}
