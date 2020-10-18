@@ -50,7 +50,7 @@ class App extends Component{
     return (
       <div>
         <Router>
-          <Route exact path='/' render={() => {
+          <Route exact path='/fronttorre/' render={() => {
             return <div className="container">
               <h2>Torre.co by Velamds
                 <img src="https://avatars2.githubusercontent.com/u/19848803?s=460&u=6d72ab7fa5f291b61819129c0d2f7a227bdd65eb&v=4" className="rounded-circle" alt="@Velamds" width="3%"></img>
@@ -79,7 +79,7 @@ class App extends Component{
             </div>
             }}>
           </Route>
-          <Route path='/job/:id' component={Job}/>
+          <Route path='/fronttorre/job/:id' component={Job}/>
         </Router>
       </div>
     );
