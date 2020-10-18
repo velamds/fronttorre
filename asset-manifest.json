@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fronttorre/static/css/main.5f361e03.chunk.css",
-    "main.js": "/fronttorre/static/js/main.5bc88fd5.chunk.js",
-    "main.js.map": "/fronttorre/static/js/main.5bc88fd5.chunk.js.map",
+    "main.js": "/fronttorre/static/js/main.586c1502.chunk.js",
+    "main.js.map": "/fronttorre/static/js/main.586c1502.chunk.js.map",
     "runtime-main.js": "/fronttorre/static/js/runtime-main.04ac6f07.js",
     "runtime-main.js.map": "/fronttorre/static/js/runtime-main.04ac6f07.js.map",
     "static/css/2.6414bb7b.chunk.css": "/fronttorre/static/css/2.6414bb7b.chunk.css",
     "static/js/2.ccccdc5d.chunk.js": "/fronttorre/static/js/2.ccccdc5d.chunk.js",
     "static/js/2.ccccdc5d.chunk.js.map": "/fronttorre/static/js/2.ccccdc5d.chunk.js.map",
     "index.html": "/fronttorre/index.html",
-    "precache-manifest.ba5f9c8c65098182dd84ccf236927bb7.js": "/fronttorre/precache-manifest.ba5f9c8c65098182dd84ccf236927bb7.js",
+    "precache-manifest.12fcc63d7f66e2f8e4366a92c8f605bb.js": "/fronttorre/precache-manifest.12fcc63d7f66e2f8e4366a92c8f605bb.js",
     "service-worker.js": "/fronttorre/service-worker.js",
     "static/css/2.6414bb7b.chunk.css.map": "/fronttorre/static/css/2.6414bb7b.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/fronttorre/static/css/main.5f361e03.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.6414bb7b.chunk.css",
     "static/js/2.ccccdc5d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5bc88fd5.chunk.js"
+    "static/js/main.586c1502.chunk.js"
   ]
 }
