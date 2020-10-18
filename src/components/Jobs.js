@@ -84,7 +84,7 @@ export default class Jobs extends Component {
                                                 )}
                                                 Tipo: {job.type}
                                                 {this.Skills(job.skills)}
-                                                <Link to={"job/"+job.id} className="btn btn-primary float-right">Postularse</Link>
+                                                <Link to={"/fronttorre/job/"+job.id} className="btn btn-primary float-right">Postularse</Link>
                                             </div>
                                             
                                             
