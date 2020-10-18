@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d82201605a5d1c2b1c07698d3ac9660",
+    "revision": "4583dd19c1dd8af149c335678e59bcbe",
     "url": "/fronttorre/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fronttorre/static/css/2.6414bb7b.chunk.css"
   },
   {
-    "revision": "04acfbee965c0e60dfa6",
+    "revision": "9b904e396e7bb84bf9c0",
     "url": "/fronttorre/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fronttorre/static/js/2.ccccdc5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04acfbee965c0e60dfa6",
-    "url": "/fronttorre/static/js/main.586c1502.chunk.js"
+    "revision": "9b904e396e7bb84bf9c0",
+    "url": "/fronttorre/static/js/main.40030f12.chunk.js"
   },
   {
     "revision": "82422620da8833982ac5",
